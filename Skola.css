@@ -1,0 +1,12 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}h3{
+     letter-spacing: 5px;
+ }
+div{
+    text-align: center;
+}
+.em-wider { letter-spacing: 10em; }
